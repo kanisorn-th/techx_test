@@ -1,0 +1,17 @@
+{
+  "name": "tis_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "test",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "7.0.0",
+    "cypress-file-upload": "^5.0.2",
+    "cypress-wait-until": "^1.7.1",
+    "cypress-xpath": "^1.6.1"
+  }
+}
